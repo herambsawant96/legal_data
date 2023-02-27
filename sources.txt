@@ -1,0 +1,12 @@
+rules and regulations 1989, maharashtra highway police website
+link : https://highwaypolice.maharashtra.gov.in/en/rules-and-regulations/
+
+The Maharashtra Motor Vehicles Rules, 1989
+link : https://highwaypolice.maharashtra.gov.in/wp-content/uploads/2019/06/3-The-Maharashtra-Motor-Vehicles-Rules-1989.pdf
+
+Rules-regulations-used-by-employees-for-discharging-their-function
+
+link : https://trafficpolicemumbai.maharashtra.gov.in/wp-content/uploads/2017/10/Rules-regulations-used-by-employees-for-discharging-their-function.pdf
+
+
+model : https://huggingface.co/atharvamundada99/bert-large-question-answering-finetuned-legal

@@ -1,0 +1,101 @@
+Alternative Dispute Resolution (ADR) – any form of attempt to resolve a dispute before it is placed in the hands of the Courts.
+
+Arbitration – a form of ADR which produces a binding resolution upon the parties.
+
+Articles of Association – this is a document produced upon initial registration of the company, and sets out the regulations and rules for operation of the company as agreed by the shareholders. The articles of association are, in essence, the constitution of the company which directors must follow and comply with during day to day operations. If company specific articles are not required, the model articles of association (a base document which accords with usual practice and statutory provisions) may be adopted. The shareholders of a company can agreed to amend the articles after incorporation, though a strict procedure must be followed, and the changes registered at Companies House.
+
+Assets – the items a business requires in order to operate (ie property, employees, equipment, contact details for customers etc).
+
+Asset Sale – the sale of the assets only of a business, where the company will continue to exist after the sale.
+
+Assign – this is another word used instead of transfer.
+
+Certificate of Incorporation – a certificate issued when a limited company is first registered at Companies House containing key company information (name, registered number), which confirms that the company legally exists and is able to trade.
+
+Condition Precedent – a requirement that must be completed before a Contract is considered to be in effect.
+
+Consideration – the payment or payment in kind a company or individual may receive in exchange for providing a good or service. This can also mean the purchase price in the sale of a company.
+
+Debenture – a charge held by a lender over the entirety of a company, rather than singular assets. This will usually include book debts, contact lists, goodwill, and stock. A debenture over a company must be registered at Companies House.
+
+Derivative Action – a type of claim issued by a minority shareholder, in the name of the company, in relation to a perceived or actual wrongdoing by the majority shareholders, often which has prejudiced the minority shareholder or has placed the company in a risky or bad position.
+
+Designated Member – an individual or corporate partner of a partnership who has more legal obligations than a member, similar to those of a director in a limited company.
+
+Director – an individual who is employed by a company in a specific, senior role and who undertakes the day to day running of the company. They are accountable to the shareholders, and owe both statutory and fiduciary duties to the company and its shareholders.
+
+Directors Duties – these are the legal duties owed by a Director to a Company and its Shareholders, either enshrined in company law (statutory duties) or fiduciary duties.
+
+Dividend – the payments made to shareholders of a company out of the profits of the company, the frequency and percentage of which is determined by individual companies via a dividend policy.
+
+Disclosure – an action where one party shares information with another party. In the sale of a business, disclosure of information can limit the affect of a warranty.
+
+Drag Along – a set of terms found in a shareholders’ agreement, which enables the majority shareholder to force the minority shareholder(s) to joint into a share sale.
+
+Due Diligence – research undertaken by one party of another, often during the initial stages of a proposed asset or share purchase, to provide further detail on the company’s operating procedures/structure and financial obligations.
+
+Duress – where a party has been forced, coerced or pressured into something against their will.
+
+Fiduciary Duties – duties owed mainly by directors, though shareholders can arguably be held to owe some duties, arising out of common law that are not specifically included within a particular statute.
+
+Force Majeure – an event or proceeding which is out of a party’s hands and which prevents them from completing their part of a contract. These are often referred to as ‘acts of God’, and are found within most commercial contracts.
+
+Good Faith – this is a term often used in relation to entering into contracts and means that you should enter into an agreement openly, honestly and with only the intention to complete the contract on the terms agreed, not with an ulterior motive or the intention to cause harm to the other party.
+
+Good Will – a reference to the standing of a company with its customers and within the industry. This carries a value and forms one of the assets purchased as part of a company sale.
+
+Holding Company – an entity which owns all the share capital of another company, sometimes known as a parent company.
+
+Indemnity – security or protection against a loss or burden, whether financial or an action. Often one party to a contract will indemnify the other against a possible financial or reputational loss arising due to the completion of the actions detailed within the contract.
+
+Joint and Several Liability – if A+B enter into a contract with C, they will likely be both jointly and severally liable for the provisions of the contract, meaning either may be held solely accountable to C, or they may be held equally accountable by C. In most cases, C will have the sole discretion to choose who they will pursue under the contract.
+
+Joint Venture – a commercial opportunity pursued jointly by two separate businesses. You can have contractual Joint Ventures or a new company may be created for the purpose.
+
+Limited Liability Partnership – this is a hybrid business structure, governed by both company and partnership law. It provides some protection from liability to partners, which simple partnerships do not provide.
+
+Majority Shareholder – the owner of 50% or more of the shares in a company.
+
+Mediation – a form of ADR where parties will attempt to amicably resolve a dispute with the involvement of an independent third party, though in the majority of cases a decision from mediation is not binding until it is enshrined within a formal, written agreement.
+
+Member – an individual or corporate partner of a partnership, who is entitled to receive a share of the partnership’s profit.
+
+Memorandum of Association – a legal statement by the initial shareholders that they wish to incorporate the company, and setting out the aims, objectives, and permissions for external dealings of the company. This also includes the name of the company, proposed trade, and confirms adoption of the articles of association. More recently, a separate memorandum is no longer required, and the memorandum can form part of the articles of association when a company is first incorporated.
+
+Minority Shareholder – any individual or entity holding shares that equate to less than 50% of the shares in a company.
+
+Non-Disclosure Agreement – commonly used in the negotiation stages of selling, merging, or a joint venture to ensure that both parties’ intellectual property and business practices remain protected.
+
+Partnership Agreement – a written agreement between partners setting out how they must interact, and how the partnership will operate. Without a formal Partnership Agreement, simple partnerships are automatically governed by the Partnership Act 1890.
+
+Pre-emption – a party will have priority to purchase something, often shares in a company, before the item is offered on the open market or to a third party. Shares in a company are often subject to a right of pre-emption in favour of the other existing shareholders, before they may be sold to an ‘outsider’.
+
+Proxy – if a director or shareholder is unable to attend a meeting, they may send someone in their place in order to express their views or action their vote. The individual is known as the proxy, and they must only represent the director or shareholder’s views, not their own.
+
+Resolutions – these are formal decisions to be made by the company, which require a certain number of shareholders to vote in favour to pass. They can take the form of either an Ordinary (requiring only 50% majority) or Special (requiring 75% or more) resolution, and may be passed at a meeting or as a written resolution. There are specific rules about which type of resolution is required, how it may be passed, and whether it should be noted at Companies House.
+
+Share Certificate – a certificate issued upon the initial granting of shares to an individual or entity who has obtained the shares. Certificates should be provided to any future purchaser of the shares.
+
+Shareholder – an individual or entity who owns the whole or part of the company by holding shares in the company. They do not take part in the day to day operation of the company, and do not owe any statutory duties.
+
+Shareholder’s Agreement – a contract entered into between all shareholders of a company, and often the company itself, to govern how the shareholders may interact with each other and how decisions regarding the company may be made.
+
+Share Sale – the sale of shares in the company, where the purchasing party acquires the entirety of the company.
+
+Special Purpose Vehicle (SPV) – a legal entity set up for a specific and limited purpose, such as the purchase of shares in a company, or a joint venture.
+
+Specific Performance – the completion of an act referred to within a contract. If a party to the contract fails to complete an act which they are meant to undertake, the other party can bring legal proceedings to force them to complete the action (to specifically perform the action).
+
+Stamp Duty – a tax you must pay upon the purchase of shares. There is a flat rate of 0.5% of the value of the shares (provided the purchase price exceeds £1,000.00) though the figure is always rounded up to the nearest £5.00.
+
+Stock Transfer Form – the legal instrument which transfers ownership of shares from one party to another, it is this document which is provided to the Stamping Office when paying Stamp Duty.
+
+Subsidiary – a company whose shares are owned solely by another company, rather than an individual or group of shareholders.
+
+Tag Along – a set of terms found in a shareholders’ agreement, which enable the minority shareholder(s) to join in with the majority shareholder selling their shares to a third party.
+
+Transfer of Undertakings (Protection of Employment) “TUPE” – these are a complex set of employment regulations which protect staff members from termination when their employer sells a business, or the project they are working on for a third party is transferred to a separate entity.
+
+Unfair Prejudice – a statutory claim which can be made by any or all of the minority shareholders when a majority shareholder’s actions and/or decisions are negatively impacting the minority shareholder(s), without minority shareholder consent.
+
+Warranties – legally binding promises that one party gives to another in a contract.
